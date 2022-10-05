@@ -29,6 +29,10 @@ Under this section you can find some examples of the model in action.
 
 While this is fairly disturbing to look at, it's also quite fun to see how the model performs on different types of images.
 
+_**note**: Even though it is not demonstrated here, this model CAN find faces of real humans_
+
+_**note2** : I will add examples of movies, YouTube videos_
+
 ### 🖌️ Japanese Animation <a name="japanese-animation"></a>
 
 Here's how the model performs on a 15-second clip of a Japanese animation.
