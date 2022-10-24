@@ -1,0 +1,4 @@
+detecto>=1.2.2
+opencv_python>=4.6.0.66
+requests>=2.25.1
+tqdm>=4.64.0
